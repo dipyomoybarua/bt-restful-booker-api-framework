@@ -9,20 +9,28 @@ This Python-based automation framework tests the Restful Booker API (https://res
 
 **Key Components**:
 ## api/: Core API logic
-```bash base_api.py: Common API interactions (requests, authentication).```
-```bash booking_api.py: Booking-specific actions (create, update, delete).```
-```bash auth_provider.py: Secure authentication management.```
+- ```bash base_api.py: Common API interactions (requests, authentication).```
+
+- ```bash booking_api.py: Booking-specific actions (create, update, delete).```
+
+- ```bash auth_provider.py: Secure authentication management.```
+
 ## config/: Configuration files
-```bash config.yaml: API URLs and authentication settings. ```
+- ```bash config.yaml: API URLs and authentication settings. ```
+
 ## tests/: API test cases
-```bash test_booking.py: CRUD tests for bookings.```
+- ```bash test_booking.py: CRUD tests for bookings.```
+
 ## utils/: Utilities
-```bash logger.py: Logs test execution.```
-```bash data_provider.py: Faker-based dynamic data generation. ```
+- ```bash logger.py: Logs test execution.```
+
+- ```bash data_provider.py: Faker-based dynamic data generation. ```
+
 ## reports/: Test reporting
-```bash report_generator.py: Generates HTML reports from test logs.```
+- ```bash report_generator.py: Generates HTML reports from test logs.```
+
 ## conftest.py:
-```bash Provides shared fixtures for tests, including API client setup, authentication management, and any other common test configurations.```
+- ```bash Provides shared fixtures for tests, including API client setup, authentication management, and any other common test configurations.```
 
 ### Prerequisites
 Before setting up this project, ensure that you have the following installed:
