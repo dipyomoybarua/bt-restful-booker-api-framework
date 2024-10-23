@@ -1,0 +1,12 @@
+2024-10-23 17:48:09,429 - INFO - Test test_create_booking passed.
+2024-10-23 17:48:11,195 - INFO - Test test_modify_booking passed.
+2024-10-23 17:48:12,976 - INFO - Test test_delete_booking passed.
+2024-10-23 17:48:12,989 - INFO - All tests passed. Generating report...
+2024-10-23 17:52:14,620 - INFO - Test test_create_booking passed.
+2024-10-23 17:52:16,399 - INFO - Test test_modify_booking passed.
+2024-10-23 17:52:18,161 - INFO - Test test_delete_booking passed.
+2024-10-23 17:52:18,176 - INFO - All tests passed. Generating report...
+2024-10-23 17:52:26,882 - INFO - Test test_create_booking passed.
+2024-10-23 17:52:28,659 - INFO - Test test_modify_booking passed.
+2024-10-23 17:52:30,425 - INFO - Test test_delete_booking passed.
+2024-10-23 17:52:30,441 - INFO - All tests passed. Generating report...

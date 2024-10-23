@@ -1,0 +1,7 @@
+requests
+pytest
+pytest-html
+PyYAML
+jinja2
+faker
+pyyaml
